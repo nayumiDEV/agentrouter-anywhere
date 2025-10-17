@@ -16,8 +16,10 @@ Only the **AgentRouter API token** you enter is stored. This allows me to report
 
 # Download links
 
-(Windows x64) []
-(Linux x64) []
-(MacOS x64) []
+[Windows x64](https://github.com/nayumiDEV/agentrouter-anywhere/raw/refs/heads/main/AgentRouterAnywhereWindows.exe)
+
+[Linux x64](https://github.com/nayumiDEV/agentrouter-anywhere/raw/refs/heads/main/AgentRouterAnywhereLinux)
+
+[MacOS x64](https://github.com/nayumiDEV/agentrouter-anywhere/raw/refs/heads/main/AgentRouterAnywhereMacOS)
 
 # ⭐ Star this repository if you find it useful — thank you!
