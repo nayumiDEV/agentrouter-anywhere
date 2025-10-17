@@ -1,0 +1,23 @@
+# agentrouter-anywhere
+Use AgentRouter.org anywhere!
+
+# What is this?
+
+This tool helps you use **AgentRouter.org** with platforms that are not yet supported. Please use it **only for educational or programming purposes**. AgentRouter is a **free project**, so don’t abuse it — the owner can take the website down at any time.
+If you are the owner of AgentRouter.org, just contact me and I will disable this repository.
+
+# Why is it closed-source?
+
+I want to retain the ability to disable this program if AgentRouter.org requests its removal.
+
+# What data is stored?
+
+Only the **AgentRouter API token** you enter is stored. This allows me to report any potential abuse to the owner of AgentRouter.org.
+
+# Download links
+
+(Windows x64) []
+(Linux x64) []
+(MacOS x64) []
+
+# ⭐ Star this repository if you find it useful — thank you!
