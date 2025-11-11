@@ -20,6 +20,6 @@ Only the **AgentRouter API token** you enter is stored. This allows me to report
 
 [Linux x64](https://github.com/nayumiDEV/agentrouter-anywhere/raw/80c1a0d9b7f459c6375740f2e9e5bddfabd25662/AgentRouterAnywhereLinux)
 
-[MacOS x64](https://github.com/nayumiDEV/agentrouter-anywhere/raw/refs/heads/main/AgentRouterAnywhereMacOS)
+[MacOS x64](https://github.com/nayumiDEV/agentrouter-anywhere/raw/80c1a0d9b7f459c6375740f2e9e5bddfabd25662/AgentRouterAnywhereMacOS)
 
 # ⭐ Star this repository if you find it useful — thank you!
